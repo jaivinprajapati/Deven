@@ -1,0 +1,137 @@
+{
+  "personal": {
+    "firstName": "Deven",
+    "middleName": "Bhadreshkumar",
+    "lastName": "Prajapati",
+    "dateOfBirth": "06/10/2006",
+    "email": "devenprajapati610@gmail.com",
+    "phone": "+447311290752",
+    "address": {
+      "line1": "28, The Spinney",
+      "line2": "Chesham",
+      "city": "Buckinghamshire",
+      "postcode": "HP5 3HY",
+      "country": "United Kingdom"
+    },
+    "nationality": "Indian",
+    "rightToWork": true,
+    "ukResidencyYears": null
+  },
+  "education": {
+    "school": {
+      "name": "Chesham Grammar School",
+      "address": "White Hill, Chesham",
+      "postcode": "HP5 1BA"
+    },
+    "previousSchool": {
+      "name": "Chiltern Hills Academy",
+      "years": "2021–2023"
+    },
+    "gcses": [
+      { "subject": "Mathematics", "grade": "7", "year": "2023" },
+      { "subject": "English Language", "grade": "5", "year": "2023" },
+      { "subject": "Combined Science (Double Award)", "grade": "8-7", "year": "2023" },
+      { "subject": "Geography", "grade": "5", "year": "2023" },
+      { "subject": "", "grade": "", "year": "" },
+      { "subject": "", "grade": "", "year": "" },
+      { "subject": "", "grade": "", "year": "" },
+      { "subject": "", "grade": "", "year": "" },
+      { "subject": "", "grade": "", "year": "" }
+    ],
+    "aLevels": [
+      { "subject": "Physics", "predictedGrade": "", "examYear": "2026" },
+      { "subject": "Mathematics", "predictedGrade": "", "examYear": "2026" },
+      { "subject": "Chemistry", "predictedGrade": "", "examYear": "2026" }
+    ],
+    "ucasPoints": null
+  },
+  "experience": [
+    {
+      "role": "Lifeguard",
+      "employer": "Everyone Active (SLM)",
+      "startDate": "October 2024",
+      "endDate": "Present",
+      "bullets": [
+        "Monitored 20+ people at a time at the swimming pool for safety precautions.",
+        "Stayed alert and ready to respond to emergencies to maintain the safety of all.",
+        "Completed training to learn latest first aid and emergency action plan at pool."
+      ]
+    },
+    {
+      "role": "Customer Service Assistant",
+      "employer": "Savers Health and Beauty",
+      "startDate": "January 2024",
+      "endDate": "January 2025",
+      "bullets": [
+        "Handled 200+ customers a day at the cashier counter for customer service.",
+        "Received certificate for Great Security & Vigilance which deterred bulk theft.",
+        "Provided all-round support at the store of 5000+ daily footfall of customers."
+      ]
+    }
+  ],
+  "extracurricular": [
+    {
+      "activity": "NCS Participant",
+      "organisation": "NCS, Kent",
+      "date": "October 2023",
+      "bullets": [
+        "Participated in 5-day NCS programme for adventurous and challenging tasks.",
+        "Led a team of 3 to complete 90° vertical wall climb and Jacob's Ladder.",
+        "Received certification for successfully completing 15+ activities and tasks."
+      ]
+    },
+    {
+      "activity": "Volunteer Swim Coach",
+      "organisation": "DofE Gold Program",
+      "startDate": "January 2024",
+      "endDate": "Present",
+      "bullets": [
+        "Assisted in teaching 7+ swimmers competitive skills required for races.",
+        "Collaborated with 3 instructors to teach and share best swimming practices."
+      ]
+    },
+    {
+      "activity": "Competitive Swimming",
+      "organisation": "Amersham Swim Club",
+      "bullets": [
+        "Won Bronze medal at State Level Championship in India for 400m relay.",
+        "Won Bronze medal in 100m Backstroke; participated in 30+ competitions.",
+        "Competitive swimmer at County Level for Amersham Swim Club."
+      ]
+    }
+  ],
+  "academics": [
+    {
+      "title": "Systems Engineering – Virtual Experience",
+      "bullets": [
+        "Learned basics of planning and integration efficiency in engineering projects.",
+        "Completed the course of designing and collaborating so system works as one."
+      ]
+    },
+    {
+      "title": "Spring Pod – Virtual Experience",
+      "bullets": [
+        "Learned basics of CAD to create and analyze design for research purposes.",
+        "Ran simulations to understand basics of design and development of a project."
+      ]
+    }
+  ],
+  "skills": [
+    "Swimming", "Teamwork", "Leadership", "First Aid and CPR", "Customer Service", "Team Collaboration"
+  ],
+  "statements": {
+    "whyApprenticeship": "I want to earn while I learn, building real-world skills alongside a qualification rather than accumulating debt. An apprenticeship gives me hands-on experience from day one in a field I'm passionate about.",
+    "whyThisCompany": "",
+    "strengths": "Calm under pressure (proven as a lifeguard), strong teamwork and leadership (NCS, swim coaching, DofE Gold), customer-facing experience, and a genuine passion for aviation and engineering.",
+    "careerGoal": "To become a pilot or secure a career in the aviation or aerospace field.",
+    "extracurricular": "Competitive swimmer (Bronze medals at state level, county-level for Amersham Swim Club). Volunteer swim coach as part of DofE Gold. NCS participant — led team through high-ropes challenges. Lifeguard since October 2024."
+  },
+  "accounts": {
+    "ucas": { "username": "", "password": "" },
+    "govUK": { "email": "devenprajapati610@gmail.com", "password": "" },
+    "email": { "address": "devenprajapati610@gmail.com", "password": "" }
+  },
+  "cv": {
+    "filePath": "Deven Prajapati CV.pdf"
+  }
+}
