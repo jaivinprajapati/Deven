@@ -39,9 +39,9 @@
       { "subject": "", "grade": "", "year": "" }
     ],
     "aLevels": [
-      { "subject": "Physics", "predictedGrade": "", "examYear": "2026" },
-      { "subject": "Mathematics", "predictedGrade": "", "examYear": "2026" },
-      { "subject": "Chemistry", "predictedGrade": "", "examYear": "2026" }
+      { "subject": "Physics", "predictedGrade": "", "examYear": "2025" },
+      { "subject": "Mathematics", "predictedGrade": "", "examYear": "2025" },
+      { "subject": "Chemistry", "predictedGrade": "", "examYear": "2025" }
     ],
     "ucasPoints": null
   },
